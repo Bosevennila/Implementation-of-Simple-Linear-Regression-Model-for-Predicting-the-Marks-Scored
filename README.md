@@ -82,6 +82,8 @@ print('RMSE = ',rmse)
 ![image](https://github.com/Bosevennila/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870486/b45251d9-c926-4a5f-a678-0bd7b3a167d6)
 ![image](https://github.com/Bosevennila/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870486/1f8edc88-78a3-4344-9ec2-6d65de8ed86e)
 ![image](https://github.com/Bosevennila/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870486/2e3ea699-ca7c-4e75-860a-85e861b9c105)
+![image](https://github.com/Bosevennila/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870486/d671176c-0720-4940-8b29-d674d138f4d2)
+
 ![image](https://github.com/Bosevennila/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870486/99401d94-d4c9-4af5-9d23-09693845727d)
 ![image](https://github.com/Bosevennila/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870486/257dc75c-7ce1-450e-9c2e-19015d62d75a)
 ![image](https://github.com/Bosevennila/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144870486/b2196900-59a0-41f6-b4d0-d6945a62482b)
